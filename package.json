@@ -35,5 +35,9 @@
     "hooks": {
       "pre-commit": "npm run eslint && npm test"
     }
+  },
+  "funding": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/<YOUR-COLLECTIVE-SLUG>"
   }
 }
